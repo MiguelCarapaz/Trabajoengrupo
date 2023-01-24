@@ -1,2 +1,2 @@
 # Trabajoengrupo
-![Ingreso de datos](img/Captura.PNG)
+![Ingreso de datos](Captura.PNG)
